@@ -1,0 +1,137 @@
+body{
+    background-image: url("images/typo120318.png");
+    background-size: cover;
+}
+@media screen and (min-width: 400px) {
+.grid-container {
+    display: grid;
+    grid-template-columns:100px 950px;
+    grid-template-rows: 815px;
+    grid-gap: 10px;
+    margin-left: 190px;
+    
+}
+
+.contact{
+    background-color: #9E9D9D;
+   
+}
+h3{
+    font-family:helvetica;
+    font-size:15px;
+    color: white;
+   margin-left:2px;
+   margin-right:10px;
+   margin-top:200px;
+   transform:rotate(90deg);
+}
+
+.objedu{
+    border: 2px solid #F7D2DF;
+    background-color: white;
+   
+    
+}
+.workexp{
+    border: 2px solid #F7D2DF;
+    background-color: white;
+    
+}
+
+
+.skills{
+    border: 2px solid #F7D2DF;
+    background-color: white;
+    font-family:didot;
+    color:#9E9D9D;
+    padding-left:20px;
+    margin-left:20px; 
+}
+
+h1{
+    font-family: didot;
+    color: #9E9D9D;
+    padding:5px;
+}
+.text{
+    font-family:helvetica;
+    color: gray;
+    padding:10px;
+}
+
+.years{
+    font-family:helvetica;
+    color:#9E9D9D;
+    float: right;
+    margin-right: 50px;
+    margin-top: -80px;
+    
+    
+}
+.workexp, strong{
+    font-family:helvetica;
+    color:#9E9D9D;
+    padding:20px;
+}
+
+.bar{
+    width: 100%;
+    background-color:#9E9D9D;
+    margin-left:2px;
+}
+.illustrator{
+    width: 80%; 
+    background-color: #F7D2DF;
+}
+.bar2{
+    width: 100%;
+    background-color: #9E9D9D;
+    margin-left:2px;
+}
+.photo{
+    width:70%;
+    background-color: #F7D2DF;
+   
+}
+.bar3{
+    width: 100%;
+    background-color: #9E9D9D;
+    margin-left:2px;
+}
+.indesign{
+    width:70%;
+    background-color: #F7D2DF;
+   
+}
+.bar4{
+    width: 100%;
+    background-color: #9E9D9D;
+    margin-left:2px;
+}
+.tech{
+    width:100%;
+    background-color:#F7D2DF;
+    
+}
+.bar5{
+    width: 100%;
+    background-color: #9E9D9D;
+    margin-left:2px;
+}
+.code{
+    width:50%;
+    background-color:#F7D2DF;
+    
+}
+.obtxt{
+    font-family:helvetica;
+    color:#9E9D9D;
+    padding:10px;
+
+}
+a{
+    font-family:helvetica;
+    color:#9E9D9D;
+    
+
+}

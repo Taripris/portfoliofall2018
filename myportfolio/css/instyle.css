@@ -1,0 +1,72 @@
+@media screen and (min-width: 400px){}
+.grid-container {
+    display: grid;
+    grid-template-columns:210px 1fr 210px;
+    grid-template-rows: 815px;
+    
+    
+    
+}
+.main1{
+    background-color:#9E9D9D;
+    padding-left: 100px;
+
+}
+.middle{
+    background-image: url("backlogo.svg");
+    width:1032px;
+    height:830px;
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 600px;
+  
+   
+}
+.namedesign{ 
+    padding:0px;
+    
+    
+
+}
+.namedesign,  h1{
+    font-family: didot;
+    font-style: bold;
+    font-size: 25pt;
+    color:#9E9D9D;
+    
+  
+    
+}
+
+.namedesign, p{
+             font-family: helvetica;
+             font-style: normal;
+             font-size:14pt;
+             color:#9E9D9D;
+             text-align: center;
+}
+
+.logo{
+    margin-left: 300px;
+    margin-top: -490px; 
+   
+   
+   
+    
+}
+
+.right{
+    background-color:#9E9D9D;
+}
+
+a{
+    font-family:helvetica;
+    color:#E2A3C9;
+    padding:10px;
+    
+
+}
+
+
+
+
